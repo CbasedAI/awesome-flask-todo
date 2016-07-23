@@ -1,4 +1,4 @@
-#!/Users/ArtinHuang/Desktop/填坑/awesome-flask-todo/venv/bin/python
+#!/Users/ArtinHuang/Desktop/填坑/flask/awesome-flask-todo/venv/bin/python
 
 import sys
 import getopt
